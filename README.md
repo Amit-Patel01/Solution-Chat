@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTJwcHpuY3ZrZ254aWViOThycnFpNXZ3cDh0M2wycWZuazd3ZG1waiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fKqBFh5pebTrycP2wo/giphy.gif" width="420" />
+</p>
+
+
 # SolutionChat
 
 A full-stack real-time live chat application using the MERN stack (MongoDB, Express, React, Node.js), Socket.io, and Tailwind CSS. The design is inspired by modern messaging apps with a sleek dark-mode aesthetic (Obsidian Teal).
